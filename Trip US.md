@@ -163,5 +163,6 @@ Las Vegas Strip -> Grand Canyon South Rim (4h30)
 - Réserver le train vers et depuis Charles de Gaule
 
 - Prévoir du change en dollars
+- ESTA
 
 
