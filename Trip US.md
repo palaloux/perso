@@ -160,3 +160,8 @@ Las Vegas Strip -> Grand Canyon South Rim (4h30)
 - réserver entrée South Rim 35$ -> possibilité en ligne
 - réserver entrée Death valley 28$ -> possibilité en ligne
 
+- Réserver le train vers et depuis Charles de Gaule
+
+- Prévoir du change en dollars
+
+
