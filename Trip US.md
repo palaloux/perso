@@ -7,6 +7,9 @@ Visite by night
 
 ```sh
 NUIT sur Los Angeles
+Cozy Cottage in Westwood/West L.A.
+10327 1/2 Ashton Ave, Los Angeles, CA 90024, USA
+https://www.airbnb.fr/trips/v1/008f64dd-459b-4ec2-88b0-93a7bb31214e/ro/RESERVATION2_CHECKIN/HMFFH3W5PH/g
 ```
 
 #### Dimanche 15 
@@ -20,6 +23,9 @@ visites
 
 ```sh
 NUIT sur Los Angeles
+Cozy Cottage in Westwood/West L.A.
+10327 1/2 Ashton Ave, Los Angeles, CA 90024, USA
+https://www.airbnb.fr/trips/v1/008f64dd-459b-4ec2-88b0-93a7bb31214e/ro/RESERVATION2_CHECKIN/HMFFH3W5PH/g
 ```
 
 #### Lundi 16 
@@ -83,57 +89,15 @@ NUIT sur Las Vegas
 
 ```sh
 NUIT sur Los Angeles
+2-Bedrm Hollywood apt, quiet upper fl corner (124)
+7047 Franklin Ave, Los Angeles, CA 90028, USA
+https://www.airbnb.fr/trips/v1/4d39ec8d-973f-4462-926f-731fa7782699/ro/RESERVATION_USER_CHECKIN/HMKDNYCJYB/g
 ```
 
 #### Samedi 21
 
 > Restitution voiture vers 16h/17h
 > Départ 20h
-
-```sh
-
-
-```
-
-# Logements
-
-#### Los Angeles (Westwood): du 14/03 au 16/03
-https://www.airbnb.fr/rooms/14098308?adults=4&check_in=2020-03-14&check_out=2020-03-16&source_impression_id=p3_1579436504_%2BuGVjsrqlvbYF80B
-Total: 346€ TTC + Parking + 1 lit et 1 canapé conv (note 4.20)
-
-https://www.airbnb.fr/rooms/15486168?adults=4&check_in=2020-03-14&check_out=2020-03-16&source_impression_id=p3_1579436524_oPHuWP6n0QwUzpfX
-Total: 368€ TTC + Parking + 1 lit double et 2 lits simples (note 4.52)
-
-https://www.airbnb.fr/rooms/40210427?adults=4&check_in=2020-03-14&check_out=2020-03-16&source_impression_id=p3_1579436517_rjsZ41nR2LxvKXWg
-Total: 418€ TTC + 2 canapés conv (note 4.75)
-
-https://www.airbnb.fr/rooms/41438261?adults=4&check_in=2020-03-14&check_out=2020-03-16&source_impression_id=p3_1579436535_ezNVYltUTVVQhEJH
-Total: 415€ TTC + Parking + 1 lit double et 1 canap conv (aucune note)
-
-https://www.airbnb.fr/rooms/41240145?adults=4&check_in=2020-03-14&check_out=2020-03-16&source_impression_id=p3_1579437495_%2F%2BhjxwCMuNu71xDh
-Total: 386€ TTC + Parking + Piscine + 1 lit double et 1 canap conv (aucune note)
-
-
-#### Las Vegas : du 17/03 au 19/03
-LuxuryResort 3min To Center Strip-NoResort Fees
-https://www.airbnb.fr/rooms/38956360?adults=4&check_in=2020-03-17&check_out=2020-03-19&poi_place_id=12277946&source_impression_id=p3_1579439985_asTtepxTDIneWuI5
-Total: 277€ TTC + Parking + Piscine + 3 lits doubles et 1 canap conv (note 4.67)
-
-Breath-taking Strip View! 33th Floor! Luxury SPA!
-https://www.airbnb.fr/rooms/18245975?adults=4&check_in=2020-03-17&check_out=2020-03-19&poi_place_id=12277946&source_impression_id=p3_1579440119_SFDFZh%2F5lleIk4HK
-Total: 275€ TTC + Parking + Piscine + 1 lit double et 1 canap conv (note 4.81)
-
-GREAT TWO BEDROOM CONDO-WALK TO THE STRIP!
-https://www.airbnb.fr/rooms/39920429?adults=4&check_in=2020-03-17&check_out=2020-03-19&poi_place_id=12277946&source_impression_id=p3_1579440121_rfmEBdy6B9%2FWOB6T
-Total: 351€ TTC + Parking + Piscine + 2 lits doubles et 1 canap conv (note 4.81)
-
-Beautiful 2BR/2Bath Apt next to Strip+Pool!
-https://www.airbnb.fr/rooms/16104626?adults=4&check_in=2020-03-17&check_out=2020-03-19&poi_place_id=12277946&source_impression_id=p3_1579440124_XYI4CVIEZOnyn5PH
-Total: 298€ TTC + Parking + Piscine + 2 lits doubles et 1 canap conv (note 4.81)
-
-Luxury Resort 2BD/2BA! - NO RESORT FEES!!
-https://www.airbnb.fr/rooms/16322930?adults=4&check_in=2020-03-17&check_out=2020-03-19&poi_place_id=12277946&source_impression_id=p3_1579440137_svL0PFSrEeYztoek
-Total: 328€ TTC + Parking + Piscine + 2 lits doubles et 1 canap conv (note 4.57)
 
 
 # Temps de route
@@ -149,20 +113,19 @@ Death Valley - Dante's view -> Las Vegas Strip (2h15)
 Las Vegas Strip -> Grand Canyon South Rim (4h30)
 
 
+# Heure train aller/retour
+- Tourcoing => CDG :
+- CDG => Tourcoing :
+
 # Notes (TODO)
 - réserver la voiture 
 
-- réserver Logement LA début de séjour
-- réserver Logement LA fin de séjour
-- réserver Logement LV
-- réserver Logement South Rim
+- réserver Logement LV du jeudi 19
 
 - réserver entrée South Rim 35$ -> possibilité en ligne
 - réserver entrée Death valley 28$ -> possibilité en ligne
 
-- Réserver le train vers et depuis Charles de Gaule
-
 - Prévoir du change en dollars
-- ESTA
+- ESTA (en cours de confirmation)
 
 
