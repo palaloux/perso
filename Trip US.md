@@ -67,6 +67,8 @@ NUIT sur Las Vegas
 
 ```sh
 NUIT sur Grand Canyon
+Cozy LINC 69D HIGH SPEED WI-FI **SLEEPS 4**
+https://www.airbnb.fr/trips/v1/1ff64f8d-6a94-474b-8029-0b53df054d0a/ro/RESERVATION_USER_CHECKIN/HMJRWWCJYR/g
 ```
 
 #### Jeudi 19 
@@ -126,6 +128,8 @@ Las Vegas Strip -> Grand Canyon South Rim (4h30)
 - réserver entrée Death valley 28$ -> possibilité en ligne
 
 - Prévoir du change en dollars
-- ESTA (en cours de confirmation)
+- ESTA
+- Vérifier le permis
+
 
 
