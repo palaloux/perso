@@ -80,6 +80,9 @@ https://fr.nliven.cirquedusoleil.com/tickets/series/ONE/michael-jackson-one-1991
 
 ```sh
 NUIT sur Las Vegas
+Strip Facing w/ Balcony, Megaresort Studio Suite
+145 East Harmon Avenue, Las Vegas, Nevada 89109, États-Unis
+https://www.airbnb.fr/trips/v1/ba67a92e-6496-4d38-85d8-95c7c74c4fa4/ro/RESERVATION_USER_CHECKIN/HMXW2M5WDA/g
 ```
 
 #### Vendredi 20 
@@ -120,16 +123,19 @@ Las Vegas Strip -> Grand Canyon South Rim (4h30)
 - CDG => Tourcoing :
 
 # Notes (TODO)
-- réserver la voiture 
+- réservation de la voiture :
 
-- réserver Logement LV du jeudi 19
+
+- ouigo :
+n° résa : BN9DHV
+aller : samedi 14, 7h45 à Tourcoing TRAIN N° 7867
+retour : dimanche 22, 17h58 à Roissy TRAIN N° 7860
 
 - réserver entrée South Rim 35$ -> possibilité en ligne
 - réserver entrée Death valley 28$ -> possibilité en ligne
 
-- Prévoir du change en dollars
-- ESTA
-- Vérifier le permis
+- ESTA : 
+
 
 
 
